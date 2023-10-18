@@ -1,0 +1,2 @@
+# pterodactyl-azuriom-install
+auto
