@@ -12,7 +12,7 @@ if ! fn_exists lib_loaded; then
 fi
 
 CHECKIP_URL="https://checkip.pterodactyl-installer.se"
-DNS_SERVER="8.8.8.8"
+DNS_SERVER="1.1.1.1"
 
 # exit with error status code if user is not root
 if [[ $EUID -ne 0 ]]; then
