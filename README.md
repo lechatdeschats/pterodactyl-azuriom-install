@@ -3,6 +3,8 @@
 
 <p align="center"> ⚠️ Installing Pterodactyl and Azuriom for Nginx</p>
 
+PHPMyadmin install for pterodactyl
+
 pterodactyl theme select
 
 Azuriom install 
